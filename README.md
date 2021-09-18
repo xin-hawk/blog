@@ -1,24 +1,3 @@
-# my-site
+# 个人博客系统
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 该项目基于vue进行开发，当前只开发了前台页面，其数据都来自mockjs进行模拟。
